@@ -1,3 +1,5 @@
+export HOME=/data/murchgroup
+
 # Don't execute for TRAMP
 if [ "$TERM" != "dumb" ]; then
 	# Now let's see if we have zsh
@@ -13,3 +15,5 @@ fi
 # Local Variables:
 # mode: shell-script
 # End:
+cd ~
+

@@ -1,3 +1,5 @@
+export HOME=/data/murchgroup
+
 # No Root
 ##########
 
